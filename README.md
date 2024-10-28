@@ -57,8 +57,8 @@ Open the index.html file in your browser.
 📬 If you have any queries or suggestions, feel free to reach out at:
 Email: pathumpasindu41@gmail.com
 
-🎉 Acknowledgments
+## 🎉 Acknowledgments
 Special thanks to all our students and teachers for their valuable feedback! 🌟
 
-©️ License
+## ©️ License
 This project is licensed under the MIT License.
